@@ -12,6 +12,8 @@
 
 ## Descriptions and links
 
+For more details on the datasets, see the [Datasets](bibliography/Datasets/) section in the bibliography.
+
 ### CIC-IDS-2017
 
 Link: https://www.unb.ca/cic/datasets/ids-2017.html
