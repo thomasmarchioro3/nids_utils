@@ -2,7 +2,9 @@
 
 ### Models
 
+- HorusEye: https://github.com/vicTorKd/HorusEye
 - Kitsune/KitNET: https://github.com/ymirsky/Kitsune-py
+- Mateen: https://github.com/ICL-ml4csec/Mateen/ 
 
 ### AI/ML NIDS evaluation
 
